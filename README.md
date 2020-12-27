@@ -1,6 +1,6 @@
 # kernel-configs
 A database of configs for building the [Kernel](kernel.org).
-specified on [my tutorial](https://gist.github.com/EduApps-CDG/733e29c28dd53e91128d384c2e879397)
+specified on [my tutorial](https://gist.github.com/EduApps-CDG/733e29c28dd53e91128d384c2e879397). This is also a way for building Android custom ROMs.
 
 ## Add a device:
 Implement our database by forking this repo, clone and so:
