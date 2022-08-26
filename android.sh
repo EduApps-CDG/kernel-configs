@@ -1,4 +1,3 @@
-echo off
 echo -e "\033[0;33mNote that you need \033[107;32mgit\033[0;33m and \033[107;32mhub\033[0;33m to work\033[0;0m"
 
 # clone the project
