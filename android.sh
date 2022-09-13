@@ -1,7 +1,7 @@
 echo -e "\033[0;33mNote that you need \033[107;32mgit\033[0;33m and \033[107;32mhub\033[0;33m to work\033[0;0m"
 
 # clone the project
-git clone https://github.com/EduApps-CDG/kernel-configs
+git clone git@github.com:EduApps-CDG/kernel-configs.git
 
 # move to project
 cd kernel-configs
